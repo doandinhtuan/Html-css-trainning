@@ -116,10 +116,10 @@ h1, h4 {
 /* Tablet */
 @media screen and (min-width: 768px) and  (max-width: 991.89px) {
     .content-box{
-        width: calc(50% - 20px );
+        width: calc(50% - 16px );
     }
     .header-search {
-        width: calc(50% - 20px );
+        width: calc(50% - 16px );
     }
     .main-header h1{
         font-size: 33px;
@@ -133,7 +133,7 @@ h1, h4 {
         flex-wrap: wrap;
     }
     .header-search {
-        width: 99%;
+        width: 100%;
         margin-top: 20px;
     }
     .main-content  {
